@@ -1,0 +1,49 @@
+:root {
+  --blue: #3EA1DB;
+  --purple: #574AE8;
+  --white: #FFF;
+  --white-200: #F9F9F9;
+
+  --title: #313131;
+  --text: #B6B6B6;
+  
+  --linear-gradient: linear-gradient(90deg, var(--purple) 0%, var(--blue) 100%);
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter-Regular"),
+    url("./fonts/Inter-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter-Light"),
+    url("./fonts/Inter-Light.ttf") format("truetype");
+    font-weight: 300;
+}
+
+@font-face {
+  font-family: "Lexend Deca";
+  src: local("LexendDeca-Regular"),
+    url("./fonts/LexendDeca-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Lexend Deca";
+  src: local("LexendDeca-Light"),
+    url("./fonts/LexendDeca-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--white-200);
+}
