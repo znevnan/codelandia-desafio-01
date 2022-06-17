@@ -61,5 +61,5 @@ This project is licensed under the terms of the MIT license.
 
 ---
 
-<p align="center"><a href="https://github.com/marianadev">amarianasilva</a>&nbsp;&nbsp;•&nbsp;&nbsp;2022</p>
+<p align="center"><a href="https://github.com/marianadev">marianadev</a>&nbsp;&nbsp;•&nbsp;&nbsp;2022</p>
 
